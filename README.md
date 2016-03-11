@@ -10,5 +10,5 @@ http://www.laravelpodcast.com/
 http://www.fiveminutegeekshow.com/
 https://laracasts.simplecast.fm/
 এছাড়া এর ডেলেপমেন্টের বাইরে যে পডকাস্টগুলি শুনি তার মধ্যে এটা সবচেয়ে বেশি শুনি-
-http://www.androidauthority.com/pod...
+http://www.androidauthority.com/podcast/
 যাই হোক অনেক কথা বলে ফেললাম। আপনারা আপনাদের জ্যামে নষ্ট হওয়া সময় এভাবে কাজে লাগান আর আরো বেশি প্রোডাকটিভ হয়ে উঠুন।
